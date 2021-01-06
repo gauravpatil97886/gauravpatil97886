@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Gaurav Patil</h1>
 <h3 align="center">Engineering Student from India</h3>
+<br>
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravpatil97886&label=Profile%20views&color=0e75b6&style=flat" alt="gauravpatil97886" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravpatil97886" alt="gauravpatil97886" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/gauravp25253968" target="blank"><img src="https://img.shields.io/twitter/follow/gauravp25253968?logo=twitter&style=for-the-badge" alt="gauravp25253968" /></a> </p>
+<br>
+<br>
+
 
 - 🔭 I’m currently working on [Python3](https://github.com/gauravpatil97886/python3)
 
