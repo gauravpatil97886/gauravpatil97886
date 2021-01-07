@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **gauravpatil97886@gmail.com**
 
-- ⚡ Fun fact **I think I am CEO Of GOOGLE**
+- ⚡ Fun fact **😂🤣I think I am developer😂🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
