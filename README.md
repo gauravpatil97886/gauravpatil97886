@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Gaurav patil, a full-time -Undergraduate  Engineering Student</div>  
+### <div align="center">I'm  a full-time -Undergraduate  Engineering Student</div>  
   
 <h1 align="center">Hi 👋, I'm Gaurav Patil</h1>
 <h3 align="center">A passionate Engineering Student from India</h3>
