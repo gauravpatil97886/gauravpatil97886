@@ -131,15 +131,9 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
+ 
   
 
-<br/>  
-
-<div align="center"><img src="" /></div>  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=gauravpatil97886&&style=flat-square" align="center" />
