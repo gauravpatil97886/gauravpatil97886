@@ -1,11 +1,8 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-</div>  
+<!-- <img src="https://github.com/dheerajkotwani/dheerajkotwani/blob/master/hello.gif" alt = "hello" width="40px" height="40px"> -->
+<h1 align="center"> <img src="https://github.com/dheerajkotwani/dheerajkotwani/blob/master/hello.gif" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/gaurav-patil-0483751ab/">Gaurav Patil</a>👨‍💻</h1>
+<!-- # Gaurav Patil 👨‍💻 -->
 
-
-
-<h1 align="center">Hi 👋, I'm Gaurav Patil</h1>
-<h3 align="center">A passionate Engineering Student from India</h3>
+-------
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravpatil97886&label=Profile%20views&color=0e75b6&style=flat" alt="gauravpatil97886" /> </p>
 
