@@ -52,11 +52,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravpatil97886&" alt="gauravpatil97886" /></p>
 
 ----------
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/gauravpatil97886/count.svg" />
-</p>
 
-<img src="stats.gif" width="90%"><br/><br/>
  
 
