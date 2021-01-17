@@ -1,7 +1,8 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
---------------------------------
+
+
 
 <h1 align="center">Hi 👋, I'm Gaurav Patil</h1>
 <h3 align="center">A passionate Engineering Student from India</h3>
@@ -11,6 +12,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravpatil97886" alt="gauravpatil97886" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/gauravp25253968" target="blank"><img src="https://img.shields.io/twitter/follow/gauravp25253968?logo=twitter&style=for-the-badge" alt="gauravp25253968" /></a> </p>
+
+<img align="right" src="https://github.com/ManishShah120/ManishShah120/blob/master/coding-freak.gif" width="32%"/>
 
 - 🔭 I’m currently working on [Python3](https://github.com/gauravpatil97886/python3)
 
