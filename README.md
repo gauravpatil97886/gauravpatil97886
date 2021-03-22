@@ -27,7 +27,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/gauravpatil97886" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/gauravpatil97886" height="30" width="40" /></a>
-<a href="https://twitter.com/gauravp25253968" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gauravp25253968" height="30" width="40" /></a>
+<a href="https://twitter.com/Gaurav97886" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Gaurav97886" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gaurav-patil-0483751ab/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/gaurav-patil-0483751ab/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100041272450732" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/profile.php?id=100041272450732" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/gauravpatil97886" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/gauravpatil97886" height="30" width="40" /></a>
