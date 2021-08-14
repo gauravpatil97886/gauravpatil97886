@@ -12,6 +12,8 @@
 
 <img align="right" src="https://github.com/ManishShah120/ManishShah120/blob/master/coding-freak.gif" width="32%"/>
 
+<a href="https://twitter.com/Gaurav97886" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/gaurav-patil-0483751ab/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+
 - 🔭 I’m currently working on [Python3](https://github.com/gauravpatil97886/python3)
 
 - 🌱 I’m currently learning **frameworks,Cloud computing,full-stack-development,Cloud-native**
