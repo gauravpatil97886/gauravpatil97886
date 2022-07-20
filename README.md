@@ -3,6 +3,10 @@
 <!-- # Gaurav Patil 👨‍💻 -->
 
 -------
+<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
+
+<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravpatil97886&label=Profile%20views&color=0e75b6&style=flat" alt="gauravpatil97886" /> </p>
 
