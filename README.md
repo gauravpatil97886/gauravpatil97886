@@ -91,4 +91,11 @@
 
 <img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
 
+## My certificatios
+
+ **To see all the other badges are** [here](https://www.credly.com/users/gaurav-patil.131bb511)
+
+[![Ai-900](https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/microsoft-certified-azure-ai-fundamentals.png)](https://www.credly.com/badges/1dcb2ef6-176b-48e2-a67b-83c136f5d623/public_url)
+
+<img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
 
