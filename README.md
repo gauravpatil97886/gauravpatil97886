@@ -1,3 +1,10 @@
+<p align='center'>
+    <img alt='GIF' src='https://github.com/gauravpatil97886/gauravpatil97886/blob/main/profile-3d-contrib/code.gif?raw=true' width='600' height='400' />
+</p>
+<div align='center'>
+<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=hii+I+am+Gaurav;Front+End+Developer;Enthusiastic+Programmer;Open+Source+Contributor;Code+For+Everyone'/>
+</div>
+
 <!-- <img src="https://github.com/dheerajkotwani/dheerajkotwani/blob/master/hello.gif" alt = "hello" width="40px" height="40px"> -->
 <h1 align="center"> <img src="https://github.com/dheerajkotwani/dheerajkotwani/blob/master/hello.gif" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/gaurav-patil-0483751ab/">Gaurav Patil</a>👨‍💻</h1>
 <!-- # Gaurav Patil 👨‍💻 -->
