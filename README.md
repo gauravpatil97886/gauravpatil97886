@@ -5,12 +5,12 @@
 <img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=hii+I+am+Gaurav+patil;Front+End+Developer;Enthusiastic+Programmer;Open+Source+Contributor;Code+For+Everyone'/>
 </div>
 
-<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
+https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif
 
 ## Gaurav Patil ! 
 <p align='justify'>
 I'm a final year IT Undergraduate Student from SVKM INSTITUTE OF TECHNOLOGY .Being a tech enthusiast, I love learning about new technologies and applying them to real-world issues because I am a tech geek. Dedicated undergraduate engineering student who is proficient in basic coding and a web developer. competent in Python, PHP, JavaScript, HTML, and C++. additionally working on the quick adoption of new software and technologies by GCP AND AWS cloud services. the ability to work together in teams while having the most impact.</p>
-<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
+https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif
 <br>
 <p align='center'>
     <a href='https://github.com/mrhrifat?tab=repositories&sort=stargazers'>
@@ -29,9 +29,9 @@ I'm a final year IT Undergraduate Student from SVKM INSTITUTE OF TECHNOLOGY .Bei
     </a>
     <a href="https://twitter.com/Gaurav97886" target="blank"><img src="https://img.shields.io/twitter/follow/Gaurav97886?logo=twitter&style=for-the-badge" alt="Gaurav97886" /></a>
 </p>
-<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
+https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif
 ##  PROJECTS
-<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
+https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif
 
 <p align='center'>
     <a href='https://github.com/gauravpatil97886/College-Enterprise-Resource-Planning-System-Project-'>
@@ -50,11 +50,11 @@ I'm a final year IT Undergraduate Student from SVKM INSTITUTE OF TECHNOLOGY .Bei
     </a>
 </p>
 
-<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
+https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravpatil97886" alt="gauravpatil97886" /></a> </p>
 
-<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
+https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif
 
 <img src="https://github.com/Gauravpatil97886/Gauravpatil97886/blob/main/images/Line.gif">
 <p align="center">
@@ -68,7 +68,7 @@ I'm a final year IT Undergraduate Student from SVKM INSTITUTE OF TECHNOLOGY .Bei
   </a>
 </p>
 
-<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
+https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif
 
 ### :zap: GitHub Stats
 <img src="https://github.com/Gauravpatil97886/Gauravpatil97886/blob/main/images/Line.gif">
@@ -83,7 +83,6 @@ I'm a final year IT Undergraduate Student from SVKM INSTITUTE OF TECHNOLOGY .Bei
 
 ![Gaurav Patil github activity graph](https://activity-graph.herokuapp.com/graph?username=Gauravpatil97886&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 
-<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
-<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
+https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif
 
 
