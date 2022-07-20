@@ -7,7 +7,11 @@
 
 <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
 
-
+## Gaurav Patil ! 
+<p align='justify'>
+I'm a final year IT Undergraduate Student from SVKM INSTITUTE OF TECHNOLOGY .Being a tech enthusiast, I love learning about new technologies and applying them to real-world issues because I am a tech geek. Dedicated undergraduate engineering student who is proficient in basic coding and a web developer. competent in Python, PHP, JavaScript, HTML, and C++. additionally working on the quick adoption of new software and technologies by GCP AND AWS cloud services. the ability to work together in teams while having the most impact.</p>
+<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
+<br>
 <p align='center'>
     <a href='https://github.com/mrhrifat?tab=repositories&sort=stargazers'>
         <img alt='total stars' title='Total stars on GitHub' src='https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/gauravpatil97886'/>
@@ -24,6 +28,26 @@
         <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
     </a>
     <a href="https://twitter.com/Gaurav97886" target="blank"><img src="https://img.shields.io/twitter/follow/Gaurav97886?logo=twitter&style=for-the-badge" alt="Gaurav97886" /></a>
+</p>
+<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
+##  PROJECTS
+<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
+
+<p align='center'>
+    <a href='https://github.com/gauravpatil97886/College-Enterprise-Resource-Planning-System-Project-'>
+        <img src='https://github-readme-stats.vercel.app/api/pin/?username=gauravpatil97886&repo=College-Enterprise-Resource-Planning-System-Project-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0C1014&hide_border=true&hide=html'/>
+    </a>
+    <a href='https://github.com/gauravpatil97886/The-Basic-Banking-System'>
+        <img src='https://github-readme-stats.vercel.app/api/pin/?username=gauravpatil97886&repo=The-Basic-Banking-System&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0C1014&hide_border=true'/>
+    </a>
+</p>
+<p align='center'>
+    <a href=>
+        <img alt='Featured Site' title='Featured Site'  src='https://custom-icon-badges.herokuapp.com/badge/-Featured%20Site-D14836?style=for-the-badge&logoColor=white&logo=globe'/>
+    </a>
+    <a href=''>
+        <img alt=''Others Projects' title='Others Projects' src='https://custom-icon-badges.herokuapp.com/badge/-Others%20Projects-16a085?style=for-the-badge&logoColor=white&logo=project'/>
+    </a>
 </p>
 
 <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
@@ -59,5 +83,7 @@
 
 ![Gaurav Patil github activity graph](https://activity-graph.herokuapp.com/graph?username=Gauravpatil97886&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 
+<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
+<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
 
 
