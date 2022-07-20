@@ -80,9 +80,9 @@
 <img src="https://github.com/Gauravpatil97886/Gauravpatil97886/blob/main/images/Line.gif">
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=Gauravpatil97886&show_icons=true&hide_border=true&show_owner=true&title_color=ff6e96&theme=radical&custom_title=नमस्ते 🙏 Programmers!&layout=compact"/><br><br>
-    <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gauravpatil97886&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
-    <img align="center" width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gauravpatil97886&theme=radical" />
+    <img align="center" width="60%" src="https://github-readme-stats.vercel.app/api?username=Gauravpatil97886&show_icons=true&hide_border=true&show_owner=true&title_color=ff6e96&theme=radical&custom_title=नमस्ते 🙏 Programmers!&layout=compact"/><br><br>
+    <img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gauravpatil97886&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
+    <img align="center" width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gauravpatil97886&theme=radical" />
   </a>
 </p>
 
