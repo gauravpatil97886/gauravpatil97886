@@ -2,27 +2,33 @@
     <img alt='GIF' src='https://github.com/gauravpatil97886/gauravpatil97886/blob/main/profile-3d-contrib/code.gif?raw=true' width='600' height='400' />
 </p>
 <div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=hii+I+am+Gaurav+patil+ 👨‍💻;Front+End+Developer;Enthusiastic+Programmer;Open+Source+Contributor;Code+For+Everyone'/>
+<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=hii+I+am+Gaurav+patil;Front+End+Developer;Enthusiastic+Programmer;Open+Source+Contributor;Code+For+Everyone'/>
 </div>
-
 
 <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravpatil97886&label=Profile%20views&color=0e75b6&style=flat" alt="gauravpatil97886" /> </p>
+
+<p align='center'>
+    <a href='https://github.com/mrhrifat?tab=repositories&sort=stargazers'>
+        <img alt='total stars' title='Total stars on GitHub' src='https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/mrhrifat'/>
+    </a>
+   <img src="https://komarev.com/ghpvc/?username=gauravpatil97886&label=Profile%20views&color=0e75b6&style=flat" alt="gauravpatil97886" />
+    <a href='https://github.com/gauravpatil97886?tab=followers'>
+        <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/gauravpatil97886?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
+        <br>
+    </a>
+    <a href='https://www.linkedin.com/in/gauravpatil97886' target='_blank'>
+        <img src='https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white'/>
+    </a>
+    <a href='gauravpatil97886@gmail.com' target='_blank'>
+        <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
+    </a>
+    <a href="https://twitter.com/Gaurav97886" target="blank"><img src="https://img.shields.io/twitter/follow/Gaurav97886?logo=twitter&style=for-the-badge" alt="Gaurav97886" /></a>
+</p>
+
+<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravpatil97886" alt="gauravpatil97886" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/Gaurav97886" target="blank"><img src="https://img.shields.io/twitter/follow/Gaurav97886?logo=twitter&style=for-the-badge" alt="Gaurav97886" /></a> </p>
-
-<img align="right" src="https://github.com/ManishShah120/ManishShah120/blob/master/coding-freak.gif" width="32%"/>
-
-<a href="https://twitter.com/Gaurav97886" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/gaurav-patil-0483751ab/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-
-
-<h3 align="left">Connect with me:</h3>
-
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gaurav-patil-0483751ab/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/gaurav-patil-0483751ab/" height="30" width="40" /></a>
-</p>
 
 <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
 
