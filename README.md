@@ -88,7 +88,7 @@
 </p>
 
 
-![Gaurav Patil github activity graph](https://activity-graph.herokuapp.com/graph?username=Gauravpatil97886&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+![Gaurav Patil github activity graph](https://activity-graph.herokuapp.com/graph?username=gauravpatil97886&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 
 <img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
 
