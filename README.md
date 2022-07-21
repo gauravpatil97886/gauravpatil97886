@@ -11,7 +11,7 @@
 ## Gaurav Patil ! 
 
 <p align='justify'>
-**I'm a final year IT Undergraduate Student from SVKM INSTITUTE OF TECHNOLOGY .Being a tech enthusiast, I love learning about new technologies and applying them to real-world issues because I am a tech geek. Dedicated undergraduate engineering student who is proficient in basic coding and a web developer. competent in Python, PHP, JavaScript, HTML, and C++. additionally working on the quick adoption of new software and technologies by GCP AND AWS cloud services. the ability to work together in teams while having the most impact**p>
+<h4>I'm a final year IT Undergraduate Student from SVKM INSTITUTE OF TECHNOLOGY .Being a tech enthusiast, I love learning about new technologies and applying them to real-world issues because I am a tech geek. Dedicated undergraduate engineering student who is proficient in basic coding and a web developer. competent in Python, PHP, JavaScript, HTML, and C++. additionally working on the quick adoption of new software and technologies by GCP AND AWS cloud services. the ability to work together in teams while having the most impact</h4>
 <img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
 
 <br>
