@@ -34,7 +34,7 @@
 </p>
 <img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
 
-##  PROJECTS
+### :zap: PROJECTS
 
 <img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
 
@@ -92,7 +92,8 @@
 
 <img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
 
-## My certificatios
+### :zap: My Certification
+
 
  **To see all the other badges are** [here](https://www.credly.com/users/gaurav-patil.131bb511)
 
