@@ -42,8 +42,8 @@
     <a href='https://github.com/gauravpatil97886/College-Enterprise-Resource-Planning-System-Project-'>
         <img src='https://github-readme-stats.vercel.app/api/pin/?username=gauravpatil97886&repo=College-Enterprise-Resource-Planning-System-Project-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0C1014&hide_border=true&hide=html'/>
     </a>
-    <a href='https://github.com/gauravpatil97886/The-Basic-Banking-System'>
-        <img src='https://github-readme-stats.vercel.app/api/pin/?username=gauravpatil97886&repo=githubprofilefinder.github.io &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0C1014&hide_border=true'/>
+    <a href='https://github.com/gauravpatil97886/githubprofilefinder'>
+        <img src='https://github-readme-stats.vercel.app/api/pin/?username=gauravpatil97886&repo=githubprofilefinder &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0C1014&hide_border=true'/>
     </a>
 </p>
 <p align='center'>
