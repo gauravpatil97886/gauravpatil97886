@@ -98,7 +98,7 @@
  **To see all the other badges are** [here](https://www.credly.com/users/gaurav-patil.131bb511)
 
 [![Ai-900](https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/microsoft-certified-azure-ai-fundamentals.png)](https://www.credly.com/badges/1dcb2ef6-176b-48e2-a67b-83c136f5d623/public_url)
+<img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/img/microsoft-certified-azure-fundamentals%20(1).png"/>
 
-<img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
-![microsoft-certified-azure-fundamentals (1)](https://user-images.githubusercontent.com/63364646/182540217-20ecb205-cce5-4306-802c-ebb1ef3ecacd.png)
+<img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/> 
 
