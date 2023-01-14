@@ -11,7 +11,8 @@
 ## Gaurav Patil ! 
 
 <p align='justify'>
-<h4>I'm a final year IT Undergraduate Student from SVKM INSTITUTE OF TECHNOLOGY .Being a tech enthusiast, I love learning about new technologies and applying them to real-world issues because I am a tech geek. Dedicated undergraduate engineering student who is proficient in basic coding and a web developer. competent in Python, PHP, JavaScript, HTML, and C++. additionally working on the quick adoption of new software and technologies by GCP AND AWS cloud services. the ability to work together in teams while having the most impact</h4>
+ 
+<h4>As a highly motivated IT undergraduate student nearing the completion of my studies at SVKM Institute of Technology., I am a dedicated and enthusiastic learner with a passion for new technologies and their real-world applications. My background in computer science and engineering has equipped me with intermediate coding skills and web development expertise, including proficiency in Python and C++. I have a good knowledge of web development frontend and backend using technologies like HTML, CSS, Bootstrap, JavaScript, Django, and databases like MySQL. Additionally, I am currently exploring the field of machine learning and data science, and I am a 3x Microsoft certified professional in AZ-900, AI-900, and DP-900. I practice my coding skills on platforms like LeetCode, HackerRank, and Codechef. I am an eager beginner in GCP and AWS cloud services and thrive in collaborative environments where I can make a meaningful impact</h4>
 <img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
 
 <br>
@@ -91,14 +92,4 @@
 ![Gaurav Patil github activity graph](https://activity-graph.herokuapp.com/graph?username=gauravpatil97886&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 
 <img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
-
-### :zap: My Certification
-
-
- **To see all the other badges are** [here](https://www.credly.com/users/gaurav-patil.131bb511)
-
-[![Ai-900](https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/microsoft-certified-azure-ai-fundamentals.png)](https://www.credly.com/badges/1dcb2ef6-176b-48e2-a67b-83c136f5d623/public_url)
-<img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/img/microsoft-certified-azure-fundamentals%20(1).png"/>
-
-<img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/> 
 
