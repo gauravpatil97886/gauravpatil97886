@@ -38,24 +38,7 @@
 
 <img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
 
-### :zap: PROJECTS
-<img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
-<p align='center'>
-    <a href='https://github.com/gauravpatil97886/College-Enterprise-Resource-Planning-System-Project-'>
-        <img src='https://github-readme-stats.vercel.app/api/pin/?username=gauravpatil97886&repo=College-Enterprise-Resource-Planning-System-Project-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0C1014&hide_border=true&hide=html'/>
-    </a>
-    <a href='https://github.com/gauravpatil97886/githubprofilefinder'>
-        <img src='https://github-readme-stats.vercel.app/api/pin/?username=gauravpatil97886&repo=githubprofilefinder&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0C1014&hide_border=true&hide=html'/>
-    </a>
-</p>
-<p align='center'>
-    <a href=>
-        <img alt='Featured Site' title='Featured Site'  src='https://custom-icon-badges.herokuapp.com/badge/-Featured%20Site-D14836?style=for-the-badge&logoColor=white&logo=globe'/>
-    </a>
-    <a href=''>
-        <img alt=''Others Projects' title='Others Projects' src='https://custom-icon-badges.herokuapp.com/badge/-Others%20Projects-16a085?style=for-the-badge&logoColor=white&logo=project'/>
-    </a>
-</p>
+
 
 <img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
 
@@ -87,14 +70,10 @@
   </a>
 </p>
 
-### ✍️ Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=gauravpatil97886&limit=5&theme=matrix&combine_all_yearly_contributions=true)
 
 ---
-![Gaurav Patil github activity graph](https://activity-graph.herokuapp.com/graph?username=gauravpatil97886&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 
-<img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
 
