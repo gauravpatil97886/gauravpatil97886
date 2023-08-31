@@ -3,14 +3,27 @@
     <img alt='GIF' src='https://github.com/gauravpatil97886/gauravpatil97886/blob/main/profile-3d-contrib/code.gif?raw=true' width='600' height='400' />
 </p>
 <div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=hii+I+am+Gaurav+patil;Front+End+Developer;Enthusiastic+Programmer;Open+Source+Contributor;Code+For+Everyone'/>
+<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=hii+i+am+Gaurav+Patil;Full+Stack+Developer;Backend+Developer;.NET+Developer'/>
 </div>
 
 <img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
 
-## Gaurav Patil ! 
-<p align='justify'>
-<h4>As a highly motivated IT undergraduate student nearing the completion of my studies at SVKM Institute of Technology., I am a dedicated and enthusiastic learner with a passion for new technologies and their real-world applications. My background in computer science and engineering has equipped me with intermediate coding skills and web development expertise, including proficiency in Python and C++. I have a good knowledge of web development frontend and backend using technologies like HTML, CSS, Bootstrap, JavaScript, Django, and databases like MySQL. Additionally, I am currently exploring the field of machine learning and data science, and I am a 3x Microsoft certified professional in AZ-900, AI-900, and DP-900. I practice my coding skills on platforms like LeetCode, HackerRank, and Codechef. I am an eager beginner in GCP and AWS cloud services and thrive in collaborative environments where I can make a meaningful impact</h4>
+## Introduction
+👋 Hello there! I'm Gaurav Patil, an enthusiastic IT undergraduate on the cusp of completing my studies at SVKM Institute of Technology. I'm deeply passionate about the dynamic world of technology and its practical applications.
+
+## Skills and Expertise
+- Strong foundation in computer science and engineering.
+- Proficient in Python, C++, and web development technologies:
+  - HTML, CSS, Bootstrap, JavaScript, and Django.
+- Exploring the captivating realms of machine learning and data science.
+- Proud holder of 3 Microsoft certifications:
+  - AZ-900, AI-900, and DP-900.
+
+## Coding and Learning
+- Regularly honing my coding skills on platforms like LeetCode, HackerRank, and Codechef.
+- Curious learner in GCP and AWS cloud services, striving in collaborative and impactful environments.
+
+
 <img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
 
 <br>
@@ -60,7 +73,9 @@
 
 </p>
 <img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
+
 ### :zap: GitHub Stats
+
 <img src="https://github.com/Gauravpatil97886/Gauravpatil97886/blob/main/images/Line.gif">
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
