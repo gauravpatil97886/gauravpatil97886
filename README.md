@@ -11,10 +11,10 @@
 ## Introduction
 👋 Hello there! I'm Gaurav Patil, an enthusiastic IT undergraduate on the cusp of completing my studies at SVKM Institute of Technology. I'm deeply passionate about the dynamic world of technology and its practical applications.
 
-## Skills and Expertise
+##  Skills and Expertise
 - Strong foundation in computer science and engineering.
 - Proficient in Python, C++, and web development technologies:
-  - HTML, CSS, Bootstrap, JavaScript, and Django.
+  - HTML, CSS, Bootstrap, JavaScript, and Django and .net.
 - Exploring the captivating realms of machine learning and data science.
 - Proud holder of 3 Microsoft certifications:
   - AZ-900, AI-900, and DP-900.
