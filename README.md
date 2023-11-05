@@ -3,29 +3,40 @@
     <img alt='GIF' src='https://github.com/gauravpatil97886/gauravpatil97886/blob/main/profile-3d-contrib/code.gif?raw=true' width='600' height='400' />
 </p>
 <div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=hii+i+am+Gaurav+Patil;Full+Stack+Developer;Backend+Developer;.NET+Developer'/>
+<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=👋+Hii+I'+am+Gaurav+Patil;Full+Stack+Developer;Backend+Developer;.NET+Developer'/>
+    
 </div>
 
 <img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
 
-## Introduction
-👋 Hello there! I'm Gaurav Patil, an enthusiastic IT undergraduate on the cusp of completing my studies at SVKM Institute of Technology. I'm deeply passionate about the dynamic world of technology and its practical applications.
 
-##  Skills and Expertise
-- Strong foundation in computer science and engineering.
-- Proficient in Python, C++, and web development technologies:
-  - HTML, CSS, Bootstrap, JavaScript, and Django and .net.
-- Exploring the captivating realms of machine learning and data science.
-- Proud holder of 3 Microsoft certifications:
-  - AZ-900, AI-900, and DP-900.
+# **Enthusiastic Full-Stack Web Developer** with a Passion for Innovation 🚀
 
-## Coding and Learning
-- Regularly honing my coding skills on platforms like LeetCode, HackerRank, and Codechef.
-- Curious learner in GCP and AWS cloud services, striving in collaborative and impactful environments.
+A highly skilled and **passionate Full-Stack Web Developer** with a proven track record of creating innovative and user-friendly web applications. Eager to leverage expertise and skills in a challenging IT environment, contributing to the development of cutting-edge solutions.
 
+## Technical Expertise 💻
 
-<img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
+- **Programming Languages:** C#, JavaScript, C++, Python, HTML, CSS, Bootstrap, ASP.NET, Web API, MVC, Postman, and Swaggers
+- **Databases:** MySQL, SQL Server
+- **Cloud Technologies:** Microsoft Azure, GCP, Salesforce
+- **Certifications:** Microsoft Azure Data Fundamentals (AZ-900), AI Fundamentals (AI-900)
 
+## Key Achievements 🏆
+
+- Successfully solved over 400 coding problems on leetcode, gfg, and coding ninjas 🧠
+- Developed a web application using AWS and GCP, showcasing strong cloud computing skills ☁️
+- Explored Salesforce during college years, achieving a score of 35,000+ on the Trailhead Salesforce platform 💯
+- **Patent holder** with a passion for technology and open-source projects 📃
+
+## Community Involvement 👥
+
+- Actively involved in various tech communities, including **AWS Community Pune and Mumbai** 🤝
+- Participated in **Cloud Native Day 2023**
+- Enjoys meeting new people at tech events and meetups 🗣️
+
+## Connect with Me 🌐
+
+You can view my coding contributions and profiles on my [Linktree](https://linktr.ee/gauravpatil97886). Let's connect and explore more about my work and projects!
 <br>
 <p align='center'>
     <a href='https://github.com/mrhrifat?tab=repositories&sort=stargazers'>
