@@ -21,9 +21,9 @@ A highly skilled and **passionate Full-Stack Web Developer** with a proven track
 - **Cloud Technologies:** Microsoft Azure, GCP, Salesforce
 - **Certifications:** Microsoft Azure Data Fundamentals (AZ-900), AI Fundamentals (AI-900)
 
-## Key Achievements 🏆
+##  🏆
 
-- Successfully solved over 400 coding problems on leetcode, gfg, and coding ninjas 🧠
+- Successfully solved over 400+ coding problems on leetcode, gfg, and coding ninjas 🧠
 - Developed a web application using AWS and GCP, showcasing strong cloud computing skills ☁️
 - Explored Salesforce during college years, achieving a score of 35,000+ on the Trailhead Salesforce platform 💯
 - **Patent holder** with a passion for technology and open-source projects 📃
