@@ -16,10 +16,14 @@ A highly skilled and **passionate Full-Stack Web Developer** with a proven track
 
 ## Technical Expertise 💻
 
-- **Programming Languages:** C#, JavaScript, C++, Python, HTML, CSS, Bootstrap, ASP.NET, Web API, MVC, Postman, and Swaggers
+- **Programming Languages:** C#, JavaScript, C++, Python
+- **Web Technologies:** HTML, CSS, Bootstrap, React.js, Next.js, WebSocket, RESTful API
+- **Frameworks/Platforms:** ASP.NET, Web API, MVC
+- **Tools:** Postman, Swaggers
 - **Databases:** MySQL, SQL Server
 - **Cloud Technologies:** Microsoft Azure, GCP, Salesforce
 - **Certifications:** Microsoft Azure Data Fundamentals (AZ-900), AI Fundamentals (AI-900)
+
 
 ##  🏆
 
