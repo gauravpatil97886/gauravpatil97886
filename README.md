@@ -13,20 +13,16 @@
 
 Hi there! I'm an enthusiastic Full-Stack Web Developer with a strong desire to push the boundaries of innovation. I excel in crafting user-centric web applications and I'm eager to contribute my skills to a fast-paced tech environment where I can collaborate on cutting-edge solutions.
 
-**Full-Stack Web Developer | Building Dynamic and User-Friendly Experiences** 🚀
-
-Hi there! I'm an enthusiastic Full-Stack Web Developer with a strong desire to push the boundaries of innovation. I excel in crafting user-centric web applications and I'm eager to contribute my skills to a fast-paced tech environment where I can collaborate on cutting-edge solutions.
-
 **My Toolkit:**
 
-- **Languages:** Proficient in *C++*, *C*, *JavaScript*, and *C#*.
-- **Web Development:** Expertise in *React.js*, *Next.js*, *Redux*, *HTML*, *CSS*, *Bootstrap*, *Node.js*, *TSX*, and *API integration*.
-- **Databases:** Skilled in *MongoDB* and *MySQL*, with ongoing exploration of *PostgreSQL* and *GraphQL*.
-- **Tools:** Familiar with *Git*, *Gradle*, *Heroku*, *Postman*, *Canva*, *MongoDB ATLAS*, *SwaggerHub*, and *Figma*, and experienced with *thunderclient*.
-- **Platforms:** Comfortable with *Django* and *Node.js*.
-- **Cloud:** Knowledgeable in *AWS* and *GCP*.
-- **Operating Systems:** Expertise in *Windows*, with basic *Linux* skills.
-- **Current Focus:** Deep-diving into *System Design (LLD & HLD)*.
+- **Languages:** Proficient in **C++**, **C**, **JavaScript**, and **C#**.
+- **Web Development:** Expertise in **React.js**, **Next.js**, **Redux**, **HTML**, **CSS**, **Bootstrap**, **Node.js**, **TSX**, and **API integration**.
+- **Databases:** Skilled in **MongoDB** and **MySQL**, with ongoing exploration of **PostgreSQL** and **GraphQL**.
+- **Tools:** Familiar with **Git**, **Gradle**, **Heroku**, **Postman**, **Canva**, **MongoDB ATLAS**, **SwaggerHub**, and **Figma**, and experienced with **thunderclient**.
+- **Platforms:** Comfortable with **Django** and **Node.js**.
+- **Cloud:** Knowledgeable in **AWS** and **GCP**.
+- **Operating Systems:** Expertise in **Windows**, with basic **Linux** skills.
+- **Current Focus:** Deep-diving into **System Design (LLD & HLD)**.
 
 **Looking for:**
 
@@ -38,12 +34,17 @@ Hi there! I'm an enthusiastic Full-Stack Web Developer with a strong desire to p
 
 I'm always open to connecting with other developers and exploring exciting opportunities. Feel free to reach out at [gauravpatil97886@gmail.com](mailto:gauravpatil97886@gmail.com), and let's chat! 😊
 
+<img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
+
+
 ##  🏆
 
 - Successfully solved over 400+ coding problems on leetcode, gfg, and coding ninjas 🧠
 - Developed a web application using AWS and GCP, showcasing strong cloud computing skills ☁️
 - Explored Salesforce during college years, achieving a score of 35,000+ on the Trailhead Salesforce platform 💯
 - **Patent holder** with a passion for technology and open-source projects 📃
+
+<img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
 
 ## Community Involvement 👥
 
@@ -112,6 +113,11 @@ You can view my coding contributions and profiles on my [Linktree](https://linkt
     <img align="center" width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gauravpatil97886&theme=radical" />
   </a>
 </p>
+
+<img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
+<img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
+<img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
+
 
 
 ### 🔝 Top Contributed Repo
