@@ -15,14 +15,14 @@ Hi there! I'm an enthusiastic Full-Stack Web Developer with a strong desire to p
 
 **My Toolkit:**
 
-- **Languages:** Proficient in **C++**, **C**, **JavaScript**, and **C#**.
-- **Web Development:** Expertise in **React.js**, **Next.js**, **Redux**, **HTML**, **CSS**, **Bootstrap**, **Node.js**, **TSX**, and **API integration**.
+- **Languages:** Proficient in **C++**, **C**, **JavaScript**, and **TypeScript**.
+- **Web Development:** Expertise in **React.js**, **Next.js**, **Redux**, **HTML**, **CSS**, **Bootstrap**, **Node.js**, **TSX**, and proficient in **API integration**.
 - **Databases:** Skilled in **MongoDB** and **MySQL**, with ongoing exploration of **PostgreSQL** and **GraphQL**.
-- **Tools:** Familiar with **Git**, **Gradle**, **Heroku**, **Postman**, **Canva**, **MongoDB ATLAS**, **SwaggerHub**, and **Figma**, and experienced with **thunderclient**.
-- **Platforms:** Comfortable with **Django** and **Node.js**.
-- **Cloud:** Knowledgeable in **AWS** and **GCP**.
-- **Operating Systems:** Expertise in **Windows**, with basic **Linux** skills.
+- **Development Tools:** Familiar with **Git**, **Gradle**, **Heroku**, **Postman**, **Canva**, **MongoDB ATLAS**, **SwaggerHub**, **Figma**, and **Thunderclient**.
+- **Cloud:** Knowledgeable in **AWS** with solid practice in **GCP** during my college tenure.
+- **Operating Systems:** Expertise in **Windows**, with good **Linux** skills.
 - **Current Focus:** Deep-diving into **System Design (LLD & HLD)**.
+
 
 **Looking for:**
 
