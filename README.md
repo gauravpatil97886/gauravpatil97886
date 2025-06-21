@@ -1,128 +1,109 @@
-
 <p align='center'>
     <img alt='GIF' src='https://github.com/gauravpatil97886/gauravpatil97886/blob/main/profile-3d-contrib/code.gif?raw=true' width='600' height='400' />
 </p>
+
 <div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=👋+Hii+I'+am+Gaurav+Patil;Full+Stack+Developer;Backend+Developer;.NET+Developer'/>
-    
+  <img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=👋+Hi,+I'm+Gaurav+Patil;Backend+Engineer+with+Golang+Mastery;Scalable+Systems+Builder;Problem+Solver+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB'/>
 </div>
 
 <img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
 
-**Full-Stack Web Developer | Building Dynamic and User-Friendly Experiences** 🚀
+## 🚀 About Me
 
-Hi there! I'm an enthusiastic Full-Stack Web Developer with a strong desire to push the boundaries of innovation. I excel in crafting user-centric web applications and I'm eager to contribute my skills to a fast-paced tech environment where I can collaborate on cutting-edge solutions.
+I'm a **Backend Software Engineer** who specializes in building high-performance systems using the **Golang ecosystem**. From designing scalable architectures to solving complex backend challenges, I thrive on delivering robust, efficient, and secure applications that solve real business problems.
 
-**My Toolkit:**
+I love building products with a **business-first mindset**, whether it's B2B platforms or B2C experiences. Currently working on mission-critical backend systems at a fintech broking company.
 
-- **Languages:** Proficient in **C++**, **C**, **JavaScript**, and **TypeScript**.
-- **Web Development:** Expertise in **React.js**, **Next.js**, **Redux**, **HTML**, **CSS**, **Bootstrap**, **Node.js**, **TSX**, and proficient in **API integration**.
-- **Databases:** Skilled in **MongoDB** and **MySQL**, with ongoing exploration of **PostgreSQL** and **GraphQL**.
-- **Development Tools:** Familiar with **Git**, **Gradle**, **Heroku**, **Postman**, **Canva**, **MongoDB ATLAS**, **SwaggerHub**, **Figma**, and **Thunderclient**.
-- **Cloud:** Knowledgeable in **AWS** with solid practice in **GCP** during my college tenure.
-- **Operating Systems:** Expertise in **Windows**, with good **Linux** skills.
-- **Current Focus:** Deep-diving into **System Design (LLD & HLD)**.
+---
 
+## 🧰 My Backend Arsenal
 
-**Looking for:**
+- **Languages**: Golang (primary), C, C++, Python (used occasionally)
+- **Frameworks**: Gin, Echo, Mux, Fiber, gRPC, Go-kit
+- **Databases**:
+  - Relational: MySQL, PostgreSQL
+  - NoSQL & Caching: Redis, DragonflyDB
+  - Search: Elasticsearch
+- **Message Queues**: Kafka, RabbitMQ
+- **Cloud & Infra**: AWS (Lambda, S3, Secrets Manager, RDS), Docker, GitHub Actions
+- **Design Expertise**: System Design (HLD/LLD), API Design (REST/gRPC), Observability (Logs/Tracing/Metrics)
+- **Security**: Secrets management, rate-limiting, input validation, API gateway integration
 
-- Collaborative opportunities to contribute my skills and learn from talented individuals.
-- Projects that utilize my technical expertise and allow me to further develop my knowledge.
-- A dynamic environment that fosters creativity and innovation.
+---
 
-**Let's Connect!**
+## 🏆 Highlights
 
-I'm always open to connecting with other developers and exploring exciting opportunities. Feel free to reach out at [gauravpatil97886@gmail.com](mailto:gauravpatil97886@gmail.com), and let's chat! 😊
+- 👨‍💻 1+ years of industry experience in building, scaling, and maintaining backend systems.
+- 🧠 Solved 400+ problems across Leetcode, GFG, and other platforms.
+- 📜 **Patent holder** with a passion for innovation and problem-solving.
+- 💡 Active contributor to business hackathons with ideas around accessibility and inclusive investing.
+- 🔍 Built a B2C + B2B LMS and brokerage backend system from scratch using Golang & microservices.
 
-<img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
+---
 
+## 👥 Community & Events
 
-##  🏆
+- Member of **AWS User Groups Pune & Mumbai**
+- Attendee at **Cloud Native Day 2023**
+- Regularly meet amazing folks through tech events, GitTogether meetups, and product discussions
 
-- Successfully solved over 400+ coding problems on leetcode, gfg, and coding ninjas 🧠
-- Developed a web application using AWS and GCP, showcasing strong cloud computing skills ☁️
-- Explored Salesforce during college years, achieving a score of 35,000+ on the Trailhead Salesforce platform 💯
-- **Patent holder** with a passion for technology and open-source projects 📃
+---
 
-<img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
+## 📬 Let's Connect!
 
-## Community Involvement 👥
+Reach out if you're looking to collaborate, exchange ideas, or just geek out about systems and scaling:
+- Email: [gauravpatil97886@gmail.com](mailto:gauravpatil97886@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/gauravpatil97886)
+- [Twitter](https://twitter.com/Gaurav97886)
+- [Linktree](https://linktr.ee/gauravpatil97886)
 
-- Actively involved in various tech communities, including **AWS Community Pune and Mumbai** 🤝
-- Participated in **Cloud Native Day 2023**
-- Enjoys meeting new people at tech events and meetups 🗣️
-
-## Connect with Me 🌐
-
-You can view my coding contributions and profiles on my [Linktree](https://linktr.ee/gauravpatil97886). Let's connect and explore more about my work and projects!
-<br>
-<p align='center'>
-    <a href='https://github.com/mrhrifat?tab=repositories&sort=stargazers'>
-        <img alt='total stars' title='Total stars on GitHub' src='https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/gauravpatil97886'/>
-    </a>
-   <img width="20%" src="https://komarev.com/ghpvc/?username=gauravpatil97886&label=Profile%20views&color=0e75b6&style=flat" alt="gauravpatil97886" />
-    <a href='https://github.com/gauravpatil97886?tab=followers'>
-        <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/gauravpatil97886?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
-        <br>
-    </a>
-    <a href='https://www.linkedin.com/in/gauravpatil97886' target='_blank'>
-        <img src='https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white'/>
-    </a>
-    <a href='gauravpatil97886@gmail.com' target='_blank'>
-        <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
-    </a>
-    <a href="https://twitter.com/Gaurav97886" target="blank"><img src="https://img.shields.io/twitter/follow/Gaurav97886?logo=twitter&style=for-the-badge" alt="Gaurav97886" /></a>
-</p>
-<img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+---
 
 <img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
 
+## 📈 GitHub Stats
 
-
-<img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravpatil97886" alt="gauravpatil97886" /></a> </p>
-
-<img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
-
-<img src="https://github.com/Gauravpatil97886/Gauravpatil97886/blob/main/images/Line.gif">
 <p align="center">
-
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img width="30%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravpatil97886&layout=compact&langs_count=10&theme=radical&hide_border=true&custom_title=Most Used Languages">
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank">
-    <img width="30%" src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gauravpatil97886&theme=radical" alt=""><
-    <img width="30%" src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gauravpatil97886&theme=radical"><br>
-    <img width="30%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gauravpatil97886&theme=radical&utcOffset=8">
-  </a>
-
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Gauravpatil97886&show_icons=true&theme=radical&hide_border=true" />
+  <img width="42%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gauravpatil97886&theme=radical&hide_border=true" />
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gauravpatil97886&theme=radical" />
 </p>
-<img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
 
-### :zap: GitHub Stats
+---
 
-<img src="https://github.com/Gauravpatil97886/Gauravpatil97886/blob/main/images/Line.gif">
+## 🔝 Most Used Languages
+
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img align="center" width="60%" src="https://github-readme-stats.vercel.app/api?username=Gauravpatil97886&show_icons=true&hide_border=true&show_owner=true&title_color=ff6e96&theme=radical&custom_title=नमस्ते 🙏 Programmers!&layout=compact"/><br><br>
-    <img align="center" width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gauravpatil97886&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
-    <img align="center" width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gauravpatil97886&theme=radical" />
-  </a>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravpatil97886&layout=compact&theme=radical" />
 </p>
 
-<img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
-<img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
-<img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
+---
 
+## 📌 Top Repos
 
-
-### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=gauravpatil97886&limit=5&theme=matrix&combine_all_yearly_contributions=true)
 
 ---
 
+## 🧪 Tech Badges
 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-Gonic-00ADD8?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+---
+
+<p align='center'>
+    <a href='https://github.com/gauravpatil97886'>
+        <img alt='Stars' src='https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/gauravpatil97886'/>
+    </a>
+    <img width="20%" src="https://komarev.com/ghpvc/?username=gauravpatil97886&label=Profile%20views&color=0e75b6&style=flat" alt="gauravpatil97886" />
+    <a href='https://github.com/gauravpatil97886?tab=followers'>
+        <img alt='Followers' src='https://custom-icon-badges.herokuapp.com/github/followers/gauravpatil97886?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
+    </a>
+</p>
